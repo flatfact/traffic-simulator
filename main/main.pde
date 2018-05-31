@@ -13,7 +13,7 @@ void testAxis(){
   popMatrix();
 }
 
-void HUD(){ //show basic informations
+void HUD(){ //show basic informationshh
   pushMatrix();
   hint(DISABLE_DEPTH_TEST);
   camera();
